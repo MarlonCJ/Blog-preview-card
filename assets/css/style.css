@@ -80,9 +80,13 @@ body{
 .card__section{}
 
 .card__link{
-    font-size: 24px;
+    font-size: 22px;
     font-weight: 800;
     color: var(--black);
+}
+
+.card__title{
+    margin: 10px 0;
 }
 
 .card__link:hover{
